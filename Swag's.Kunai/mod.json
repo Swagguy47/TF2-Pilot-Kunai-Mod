@@ -1,0 +1,14 @@
+{
+	"ApiId" : "Pilot Kunai",
+	"Name" : "Pilot Kunai",
+	"Description" : "Impliments the unused Kunai melee stuff by adding mods to 'melee_ pilot_arena'",
+	"Authors" : [
+		"Swagguy47"
+	],
+	"Contacts" : [
+		"Discord: Swagguy47#1612"
+	],
+	"CustomScripts": [
+
+	],
+}
